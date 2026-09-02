@@ -1,0 +1,6 @@
+{
+  "name": "Next-Gen Virtual ISP Router & Billing Platform",
+  "description": "All-in-One Virtual Router, PPPoE/DHCP/Hotspot Server, Linux Network Engine, Bandwidth QoS, Automated Billing & Customer Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
